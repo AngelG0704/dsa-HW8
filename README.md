@@ -14,7 +14,7 @@ Maven
 
 2. Clone Repository 
 
-git clone https://github.com/AngelG0704/Homework-8.git
+git clone https://github.com/AngelG0704/dsa-HW8.git
 
 cd campus-taskboard
 
